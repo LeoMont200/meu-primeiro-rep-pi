@@ -1,4 +1,6 @@
 # meu-primeiro-rep-pi
 primeiro repositório da aula de pi
 
-alterando repositório
+alterando repositório REMOTAMENTE
+
+alterando repositório LOCALMENTE
